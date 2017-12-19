@@ -1,22 +1,32 @@
 {
-    "name": "flatland-monokai-improved",
-    "displayName": "Flatland Monokai Improved",
-    "description": "Theme based on Flatland Monokai",
-    "version": "0.1.0",
-    "publisher": "meirbon",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Flatland Monokai Improved",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Flatland Monokai Improved-color-theme.json"
-            }
-        ]
-    }
+	"name": "flatland-monokai-improved",
+	"displayName": "Flatland Monokai Improved",
+	"description": "Theme based on Flatland Monokai",
+	"version": "0.1.0",
+	"publisher": "meirbon",
+	"engines": {
+		"vscode": "^1.19.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MeirBon/flatland-monokai-improved.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Flatland Monokai Improved",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flatland Monokai Improved-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "30fa72b3-5244-480c-a508-2eadcaaab15c",
+		"publisherDisplayName": "Mèir Noordermeer",
+		"publisherId": "44b84eb8-bb5f-432b-9209-5be9514d4fe3"
+	}
 }

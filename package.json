@@ -1,0 +1,22 @@
+{
+    "name": "flatland-monokai-improved",
+    "displayName": "Flatland Monokai Improved",
+    "description": "Theme based on Flatland Monokai",
+    "version": "0.1.0",
+    "publisher": "meirbon",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flatland Monokai Improved",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Flatland Monokai Improved-color-theme.json"
+            }
+        ]
+    }
+}

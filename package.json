@@ -2,7 +2,7 @@
 	"name": "flatland-monokai-improved",
 	"displayName": "Flatland Monokai Improved",
 	"description": "Theme based on Flatland Monokai",
-	"version": "0.1.1",
+	"version": "0.1.3",
 	"publisher": "meirbon",
 	"engines": {
 		"vscode": "^1.19.0"

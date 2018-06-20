@@ -21,12 +21,12 @@
       {
         "label": "Flatland Monokai Improved",
         "uiTheme": "vs-dark",
-        "path": "./themes/FMI-No-Highlight.json"
+        "path": "./themes/FMI.json"
       },
       {
-        "label": "Flatland Monokai Improved",
+        "label": "Flatland Monokai Improved - No Cursor Highlight",
         "uiTheme": "vs-dark",
-        "path": "./themes/FMI.json"
+        "path": "./themes/FMI-No-Highlight.json"
       }
     ]
   },

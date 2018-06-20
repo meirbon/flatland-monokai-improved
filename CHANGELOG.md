@@ -1,7 +1,17 @@
 # Change Log
-All notable changes to the "flatland-monokai-improved" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.1.4]
 
-## [Unreleased]
+### Added
+- Added requested option to disable cursorline highlight
+
+## [0.1.3]
+
+### Added
+- Support for Markdown and other Markup thanks to @jaimergp
+
+## [0.1.2]
+- Make window title readable on MacOS when inactive
+
+## [0.1.1]
 - Initial release

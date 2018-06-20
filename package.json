@@ -3,7 +3,7 @@
   "displayName": "Flatland Monokai Improved",
   "description": "Theme based on Flatland Monokai",
   "license": "MIT",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "meirbon",
   "engines": {
     "vscode": "^1.19.0"

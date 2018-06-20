@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.5]
+- Change name of second theme
+
 ## [0.1.4]
 
 ### Added
